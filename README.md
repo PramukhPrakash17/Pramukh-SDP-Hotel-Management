@@ -17,6 +17,7 @@ Parking Slot Allocation: Admins have the ability to manage and allocate parking 
 Billing: Admins can generate and manage bills for customer services including room bookings, food orders, and parking charges.
 
 Project Structure
+
 The project is organized according to the MVC pattern:
 
 Model: Contains the business logic and data management components.
